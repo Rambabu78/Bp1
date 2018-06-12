@@ -13,7 +13,7 @@ public class dtp {
 		        Scanner sc = new Scanner(System.in);
 		        long t=sc.nextLong();
 
-		        for(int i=0;i<t;i++)
+		        for(int i=0;i<t+1;i++)
 		        {
 
 		            try
